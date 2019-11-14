@@ -4,9 +4,13 @@
 According to multiple sources [1], more than 100,000 traffic tickets are issued per day in the United States, and each ticket costs $150 on average. A traffic ticket quota is the number of traffic infractions a police officer must administer in a given period of time. Ticket quotas are illegal in many states, such as California, Texas, and Florida. In Washington State, a bill [2] to prohibit traffic ticket quotas was introduced in 2016, but it is not in effect yet. Still, both Washington State Patrol and Seattle Police state that there is no regulation regarding the minimum number of traffic stops [3]. Some police departments use “productivity goals”, “work productivity” or performance reviews as excuses to implicitly enforce traffic ticket quotas. The purpose of this project is to explore the possibility that a traffic ticket quota is implicitly enforced in the state of Washington. 
 ## Research Questions
 •	Are there traffic ticket quotas imposed on police officers in Washington/Seattle?
-o	If so, what is the traffic ticket quota number or rate, and what is its periodicity?
-o	What is the demographic of the drivers being stopped by police officers who enforce quotas?
+
+  o	If so, what is the traffic ticket quota number or rate, and what is its periodicity?
+  
+  o	What is the demographic of the drivers being stopped by police officers who enforce quotas?
+
 •	What are the most common places and time for traffic stops?
+
 •	What are the most common traffic violations or reasons for stops?
 ## Data
 The dataset is provided by The Stanford Open Policing Project [4], and can be obtained either from their website or from Kaggle [5]. It contains records of traffic stops by law enforcement in the state of Washington from January 2009 to December 2015. 
